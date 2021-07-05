@@ -1,3 +1,5 @@
+Attempt at adding support for Embedded Artists EM027AS012 2.7" ePaper (rev A)
+
 # GxEPD2
 ## Arduino Display Library for SPI E-Paper Displays
 
