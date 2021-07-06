@@ -1,4 +1,6 @@
-Attempt at adding support for Embedded Artists EM027AS012 2.7" ePaper (rev A)
+Attempt at adding driver support for Pervasive Displays EM027AS012 2.7" ePaper. Test module is an Embedded Artists' 2.7" E-Paper Display, rev A (should work with rev B and C).
+
+Orignal readme:
 
 # GxEPD2
 ## Arduino Display Library for SPI E-Paper Displays
